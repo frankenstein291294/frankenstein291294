@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @frankenstein291294
+- 👀 I’m interested in design and development of sites web, desktop software, app mobiles, amoung others
+- 🌱 I’m currently learning Java, React, Hostings
